@@ -6,11 +6,9 @@
 
 
 
-# autom1
-
 Implementation of a Simple App with the next operations:
 
-* Get random nations
+* Get random nation
 * Get random currencies
 * Get random Aircraft
 * Get application version
